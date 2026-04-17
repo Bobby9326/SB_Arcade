@@ -1,0 +1,2522 @@
+[
+  {
+    "position": "ST",
+    "weakFoot": 1,
+    "stats": [
+      {
+        "key": "acceleration",
+        "label": "Acceleration",
+        "type": "core",
+        "base": 83
+      },
+      {
+        "key": "sprintSpeed",
+        "label": "Sprint Speed",
+        "type": "core",
+        "base": 83
+      },
+      {
+        "key": "positioning",
+        "label": "Positioning",
+        "type": "core",
+        "base": 73
+      },
+      {
+        "key": "finishing",
+        "label": "Finishing",
+        "type": "core",
+        "base": 83
+      },
+      {
+        "key": "shotPower",
+        "label": "Shot Power",
+        "type": "core",
+        "base": 88
+      },
+      {
+        "key": "longShots",
+        "label": "Long Shots",
+        "type": "core",
+        "base": 73
+      },
+      {
+        "key": "volleys",
+        "label": "Volleys",
+        "type": "core",
+        "base": 83
+      },
+      {
+        "key": "penalties",
+        "label": "Penalties",
+        "type": "core",
+        "base": 83
+      },
+      {
+        "key": "headingAccuracy",
+        "label": "Heading",
+        "type": "core",
+        "base": 83
+      },
+      {
+        "key": "ballControl",
+        "label": "Ball Control",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "dribbling",
+        "label": "Dribbling",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "agility",
+        "label": "Agility",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "balance",
+        "label": "Balance",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "reactions",
+        "label": "Reactions",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "shortPassing",
+        "label": "Short Passing",
+        "type": "secondary",
+        "base": 88
+      },
+      {
+        "key": "longPassing",
+        "label": "Long Passing",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "curve",
+        "label": "Curve",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "fkAccuracy",
+        "label": "FK Accuracy",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "crossing",
+        "label": "Crossing",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "vision",
+        "label": "Vision",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "interceptions",
+        "label": "Interceptions",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "defensiveAware",
+        "label": "Def. Awareness",
+        "type": "secondary",
+        "base": 53
+      },
+      {
+        "key": "standingTackle",
+        "label": "Standing Tackle",
+        "type": "secondary",
+        "base": 53
+      },
+      {
+        "key": "slidingTackle",
+        "label": "Sliding Tackle",
+        "type": "secondary",
+        "base": 53
+      },
+      {
+        "key": "jumping",
+        "label": "Jumping",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "stamina",
+        "label": "Stamina",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "strength",
+        "label": "Strength",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "aggression",
+        "label": "Aggression",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "composure",
+        "label": "Composure",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "gkDiving",
+        "label": "GK Diving",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkHandling",
+        "label": "GK Handling",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkKicking",
+        "label": "GK Kicking",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkReflexes",
+        "label": "GK Reflexes",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkPositioning",
+        "label": "GK Positioning",
+        "type": "gk",
+        "base": 10
+      }
+    ]
+  },
+  {
+    "position": "LW",
+    "weakFoot": 3,
+    "stats": [
+      {
+        "key": "acceleration",
+        "label": "Acceleration",
+        "type": "core",
+        "base": 83
+      },
+      {
+        "key": "sprintSpeed",
+        "label": "Sprint Speed",
+        "type": "core",
+        "base": 93
+      },
+      {
+        "key": "dribbling",
+        "label": "Dribbling",
+        "type": "core",
+        "base": 93
+      },
+      {
+        "key": "agility",
+        "label": "Agility",
+        "type": "core",
+        "base": 73
+      },
+      {
+        "key": "ballControl",
+        "label": "Ball Control",
+        "type": "core",
+        "base": 53
+      },
+      {
+        "key": "finishing",
+        "label": "Finishing",
+        "type": "core",
+        "base": 63
+      },
+      {
+        "key": "crossing",
+        "label": "Crossing",
+        "type": "core",
+        "base": 88
+      },
+      {
+        "key": "curve",
+        "label": "Curve",
+        "type": "core",
+        "base": 73
+      },
+      {
+        "key": "positioning",
+        "label": "Positioning",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "shotPower",
+        "label": "Shot Power",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "longShots",
+        "label": "Long Shots",
+        "type": "secondary",
+        "base": 63
+      },
+      {
+        "key": "volleys",
+        "label": "Volleys",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "penalties",
+        "label": "Penalties",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "headingAccuracy",
+        "label": "Heading",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "balance",
+        "label": "Balance",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "reactions",
+        "label": "Reactions",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "shortPassing",
+        "label": "Short Passing",
+        "type": "secondary",
+        "base": 93
+      },
+      {
+        "key": "longPassing",
+        "label": "Long Passing",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "fkAccuracy",
+        "label": "FK Accuracy",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "vision",
+        "label": "Vision",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "interceptions",
+        "label": "Interceptions",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "defensiveAware",
+        "label": "Def. Awareness",
+        "type": "secondary",
+        "base": 53
+      },
+      {
+        "key": "standingTackle",
+        "label": "Standing Tackle",
+        "type": "secondary",
+        "base": 53
+      },
+      {
+        "key": "slidingTackle",
+        "label": "Sliding Tackle",
+        "type": "secondary",
+        "base": 53
+      },
+      {
+        "key": "jumping",
+        "label": "Jumping",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "stamina",
+        "label": "Stamina",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "strength",
+        "label": "Strength",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "aggression",
+        "label": "Aggression",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "composure",
+        "label": "Composure",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "gkDiving",
+        "label": "GK Diving",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkHandling",
+        "label": "GK Handling",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkKicking",
+        "label": "GK Kicking",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkReflexes",
+        "label": "GK Reflexes",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkPositioning",
+        "label": "GK Positioning",
+        "type": "gk",
+        "base": 10
+      }
+    ]
+  },
+  {
+    "position": "RW",
+    "weakFoot": 3,
+    "stats": [
+      {
+        "key": "acceleration",
+        "label": "Acceleration",
+        "type": "core",
+        "base": 83
+      },
+      {
+        "key": "sprintSpeed",
+        "label": "Sprint Speed",
+        "type": "core",
+        "base": 93
+      },
+      {
+        "key": "dribbling",
+        "label": "Dribbling",
+        "type": "core",
+        "base": 93
+      },
+      {
+        "key": "agility",
+        "label": "Agility",
+        "type": "core",
+        "base": 73
+      },
+      {
+        "key": "ballControl",
+        "label": "Ball Control",
+        "type": "core",
+        "base": 53
+      },
+      {
+        "key": "finishing",
+        "label": "Finishing",
+        "type": "core",
+        "base": 63
+      },
+      {
+        "key": "crossing",
+        "label": "Crossing",
+        "type": "core",
+        "base": 88
+      },
+      {
+        "key": "curve",
+        "label": "Curve",
+        "type": "core",
+        "base": 73
+      },
+      {
+        "key": "positioning",
+        "label": "Positioning",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "shotPower",
+        "label": "Shot Power",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "longShots",
+        "label": "Long Shots",
+        "type": "secondary",
+        "base": 63
+      },
+      {
+        "key": "volleys",
+        "label": "Volleys",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "penalties",
+        "label": "Penalties",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "headingAccuracy",
+        "label": "Heading",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "balance",
+        "label": "Balance",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "reactions",
+        "label": "Reactions",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "shortPassing",
+        "label": "Short Passing",
+        "type": "secondary",
+        "base": 93
+      },
+      {
+        "key": "longPassing",
+        "label": "Long Passing",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "fkAccuracy",
+        "label": "FK Accuracy",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "vision",
+        "label": "Vision",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "interceptions",
+        "label": "Interceptions",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "defensiveAware",
+        "label": "Def. Awareness",
+        "type": "secondary",
+        "base": 53
+      },
+      {
+        "key": "standingTackle",
+        "label": "Standing Tackle",
+        "type": "secondary",
+        "base": 53
+      },
+      {
+        "key": "slidingTackle",
+        "label": "Sliding Tackle",
+        "type": "secondary",
+        "base": 53
+      },
+      {
+        "key": "jumping",
+        "label": "Jumping",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "stamina",
+        "label": "Stamina",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "strength",
+        "label": "Strength",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "aggression",
+        "label": "Aggression",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "composure",
+        "label": "Composure",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "gkDiving",
+        "label": "GK Diving",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkHandling",
+        "label": "GK Handling",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkKicking",
+        "label": "GK Kicking",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkReflexes",
+        "label": "GK Reflexes",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkPositioning",
+        "label": "GK Positioning",
+        "type": "gk",
+        "base": 10
+      }
+    ]
+  },
+  {
+    "position": "LM",
+    "weakFoot": 1,
+    "stats": [
+      {
+        "key": "acceleration",
+        "label": "Acceleration",
+        "type": "core",
+        "base": 81
+      },
+      {
+        "key": "sprintSpeed",
+        "label": "Sprint Speed",
+        "type": "core",
+        "base": 91
+      },
+      {
+        "key": "crossing",
+        "label": "Crossing",
+        "type": "core",
+        "base": 86
+      },
+      {
+        "key": "dribbling",
+        "label": "Dribbling",
+        "type": "core",
+        "base": 91
+      },
+      {
+        "key": "ballControl",
+        "label": "Ball Control",
+        "type": "core",
+        "base": 51
+      },
+      {
+        "key": "shortPassing",
+        "label": "Short Passing",
+        "type": "core",
+        "base": 91
+      },
+      {
+        "key": "vision",
+        "label": "Vision",
+        "type": "core",
+        "base": 71
+      },
+      {
+        "key": "agility",
+        "label": "Agility",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "balance",
+        "label": "Balance",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "reactions",
+        "label": "Reactions",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "finishing",
+        "label": "Finishing",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "shotPower",
+        "label": "Shot Power",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "longShots",
+        "label": "Long Shots",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "curve",
+        "label": "Curve",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "fkAccuracy",
+        "label": "FK Accuracy",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "longPassing",
+        "label": "Long Passing",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "positioning",
+        "label": "Positioning",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "headingAccuracy",
+        "label": "Heading",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "interceptions",
+        "label": "Interceptions",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "defensiveAware",
+        "label": "Def. Awareness",
+        "type": "secondary",
+        "base": 51
+      },
+      {
+        "key": "standingTackle",
+        "label": "Standing Tackle",
+        "type": "secondary",
+        "base": 51
+      },
+      {
+        "key": "slidingTackle",
+        "label": "Sliding Tackle",
+        "type": "secondary",
+        "base": 51
+      },
+      {
+        "key": "jumping",
+        "label": "Jumping",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "stamina",
+        "label": "Stamina",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "strength",
+        "label": "Strength",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "aggression",
+        "label": "Aggression",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "composure",
+        "label": "Composure",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "volleys",
+        "label": "Volleys",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "penalties",
+        "label": "Penalties",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "gkDiving",
+        "label": "GK Diving",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkHandling",
+        "label": "GK Handling",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkKicking",
+        "label": "GK Kicking",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkReflexes",
+        "label": "GK Reflexes",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkPositioning",
+        "label": "GK Positioning",
+        "type": "gk",
+        "base": 10
+      }
+    ]
+  },
+  {
+    "position": "RM",
+    "weakFoot": 1,
+    "stats": [
+      {
+        "key": "acceleration",
+        "label": "Acceleration",
+        "type": "core",
+        "base": 81
+      },
+      {
+        "key": "sprintSpeed",
+        "label": "Sprint Speed",
+        "type": "core",
+        "base": 91
+      },
+      {
+        "key": "crossing",
+        "label": "Crossing",
+        "type": "core",
+        "base": 86
+      },
+      {
+        "key": "dribbling",
+        "label": "Dribbling",
+        "type": "core",
+        "base": 91
+      },
+      {
+        "key": "ballControl",
+        "label": "Ball Control",
+        "type": "core",
+        "base": 51
+      },
+      {
+        "key": "shortPassing",
+        "label": "Short Passing",
+        "type": "core",
+        "base": 91
+      },
+      {
+        "key": "vision",
+        "label": "Vision",
+        "type": "core",
+        "base": 71
+      },
+      {
+        "key": "agility",
+        "label": "Agility",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "balance",
+        "label": "Balance",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "reactions",
+        "label": "Reactions",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "finishing",
+        "label": "Finishing",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "shotPower",
+        "label": "Shot Power",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "longShots",
+        "label": "Long Shots",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "curve",
+        "label": "Curve",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "fkAccuracy",
+        "label": "FK Accuracy",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "longPassing",
+        "label": "Long Passing",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "positioning",
+        "label": "Positioning",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "headingAccuracy",
+        "label": "Heading",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "interceptions",
+        "label": "Interceptions",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "defensiveAware",
+        "label": "Def. Awareness",
+        "type": "secondary",
+        "base": 51
+      },
+      {
+        "key": "standingTackle",
+        "label": "Standing Tackle",
+        "type": "secondary",
+        "base": 51
+      },
+      {
+        "key": "slidingTackle",
+        "label": "Sliding Tackle",
+        "type": "secondary",
+        "base": 51
+      },
+      {
+        "key": "jumping",
+        "label": "Jumping",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "stamina",
+        "label": "Stamina",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "strength",
+        "label": "Strength",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "aggression",
+        "label": "Aggression",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "composure",
+        "label": "Composure",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "volleys",
+        "label": "Volleys",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "penalties",
+        "label": "Penalties",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "gkDiving",
+        "label": "GK Diving",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkHandling",
+        "label": "GK Handling",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkKicking",
+        "label": "GK Kicking",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkReflexes",
+        "label": "GK Reflexes",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkPositioning",
+        "label": "GK Positioning",
+        "type": "gk",
+        "base": 10
+      }
+    ]
+  },
+  {
+    "position": "CAM",
+    "weakFoot": 2,
+    "stats": [
+      {
+        "key": "vision",
+        "label": "Vision",
+        "type": "core",
+        "base": 71
+      },
+      {
+        "key": "shortPassing",
+        "label": "Short Passing",
+        "type": "core",
+        "base": 81
+      },
+      {
+        "key": "longPassing",
+        "label": "Long Passing",
+        "type": "core",
+        "base": 86
+      },
+      {
+        "key": "dribbling",
+        "label": "Dribbling",
+        "type": "core",
+        "base": 86
+      },
+      {
+        "key": "ballControl",
+        "label": "Ball Control",
+        "type": "core",
+        "base": 76
+      },
+      {
+        "key": "agility",
+        "label": "Agility",
+        "type": "core",
+        "base": 71
+      },
+      {
+        "key": "finishing",
+        "label": "Finishing",
+        "type": "core",
+        "base": 81
+      },
+      {
+        "key": "curve",
+        "label": "Curve",
+        "type": "secondary",
+        "base": 76
+      },
+      {
+        "key": "fkAccuracy",
+        "label": "FK Accuracy",
+        "type": "secondary",
+        "base": 76
+      },
+      {
+        "key": "crossing",
+        "label": "Crossing",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "longShots",
+        "label": "Long Shots",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "shotPower",
+        "label": "Shot Power",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "positioning",
+        "label": "Positioning",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "acceleration",
+        "label": "Acceleration",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "sprintSpeed",
+        "label": "Sprint Speed",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "balance",
+        "label": "Balance",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "reactions",
+        "label": "Reactions",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "headingAccuracy",
+        "label": "Heading",
+        "type": "secondary",
+        "base": 66
+      },
+      {
+        "key": "volleys",
+        "label": "Volleys",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "penalties",
+        "label": "Penalties",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "interceptions",
+        "label": "Interceptions",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "defensiveAware",
+        "label": "Def. Awareness",
+        "type": "secondary",
+        "base": 51
+      },
+      {
+        "key": "standingTackle",
+        "label": "Standing Tackle",
+        "type": "secondary",
+        "base": 51
+      },
+      {
+        "key": "slidingTackle",
+        "label": "Sliding Tackle",
+        "type": "secondary",
+        "base": 51
+      },
+      {
+        "key": "jumping",
+        "label": "Jumping",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "stamina",
+        "label": "Stamina",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "strength",
+        "label": "Strength",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "aggression",
+        "label": "Aggression",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "composure",
+        "label": "Composure",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "gkDiving",
+        "label": "GK Diving",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkHandling",
+        "label": "GK Handling",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkKicking",
+        "label": "GK Kicking",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkReflexes",
+        "label": "GK Reflexes",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkPositioning",
+        "label": "GK Positioning",
+        "type": "gk",
+        "base": 10
+      }
+    ]
+  },
+  {
+    "position": "CM",
+    "weakFoot": 2,
+    "stats": [
+      {
+        "key": "shortPassing",
+        "label": "Short Passing",
+        "type": "core",
+        "base": 87
+      },
+      {
+        "key": "longPassing",
+        "label": "Long Passing",
+        "type": "core",
+        "base": 82
+      },
+      {
+        "key": "vision",
+        "label": "Vision",
+        "type": "core",
+        "base": 72
+      },
+      {
+        "key": "ballControl",
+        "label": "Ball Control",
+        "type": "core",
+        "base": 82
+      },
+      {
+        "key": "stamina",
+        "label": "Stamina",
+        "type": "core",
+        "base": 82
+      },
+      {
+        "key": "interceptions",
+        "label": "Interceptions",
+        "type": "core",
+        "base": 72
+      },
+      {
+        "key": "defensiveAware",
+        "label": "Def. Awareness",
+        "type": "core",
+        "base": 72
+      },
+      {
+        "key": "dribbling",
+        "label": "Dribbling",
+        "type": "secondary",
+        "base": 82
+      },
+      {
+        "key": "agility",
+        "label": "Agility",
+        "type": "secondary",
+        "base": 72
+      },
+      {
+        "key": "reactions",
+        "label": "Reactions",
+        "type": "secondary",
+        "base": 82
+      },
+      {
+        "key": "balance",
+        "label": "Balance",
+        "type": "secondary",
+        "base": 72
+      },
+      {
+        "key": "acceleration",
+        "label": "Acceleration",
+        "type": "secondary",
+        "base": 72
+      },
+      {
+        "key": "sprintSpeed",
+        "label": "Sprint Speed",
+        "type": "secondary",
+        "base": 82
+      },
+      {
+        "key": "finishing",
+        "label": "Finishing",
+        "type": "secondary",
+        "base": 62
+      },
+      {
+        "key": "shotPower",
+        "label": "Shot Power",
+        "type": "secondary",
+        "base": 82
+      },
+      {
+        "key": "longShots",
+        "label": "Long Shots",
+        "type": "secondary",
+        "base": 82
+      },
+      {
+        "key": "curve",
+        "label": "Curve",
+        "type": "secondary",
+        "base": 72
+      },
+      {
+        "key": "fkAccuracy",
+        "label": "FK Accuracy",
+        "type": "secondary",
+        "base": 72
+      },
+      {
+        "key": "crossing",
+        "label": "Crossing",
+        "type": "secondary",
+        "base": 62
+      },
+      {
+        "key": "headingAccuracy",
+        "label": "Heading",
+        "type": "secondary",
+        "base": 82
+      },
+      {
+        "key": "positioning",
+        "label": "Positioning",
+        "type": "secondary",
+        "base": 72
+      },
+      {
+        "key": "standingTackle",
+        "label": "Standing Tackle",
+        "type": "secondary",
+        "base": 72
+      },
+      {
+        "key": "slidingTackle",
+        "label": "Sliding Tackle",
+        "type": "secondary",
+        "base": 72
+      },
+      {
+        "key": "jumping",
+        "label": "Jumping",
+        "type": "secondary",
+        "base": 72
+      },
+      {
+        "key": "strength",
+        "label": "Strength",
+        "type": "secondary",
+        "base": 72
+      },
+      {
+        "key": "aggression",
+        "label": "Aggression",
+        "type": "secondary",
+        "base": 72
+      },
+      {
+        "key": "composure",
+        "label": "Composure",
+        "type": "secondary",
+        "base": 72
+      },
+      {
+        "key": "volleys",
+        "label": "Volleys",
+        "type": "secondary",
+        "base": 62
+      },
+      {
+        "key": "penalties",
+        "label": "Penalties",
+        "type": "secondary",
+        "base": 72
+      },
+      {
+        "key": "gkDiving",
+        "label": "GK Diving",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkHandling",
+        "label": "GK Handling",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkKicking",
+        "label": "GK Kicking",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkReflexes",
+        "label": "GK Reflexes",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkPositioning",
+        "label": "GK Positioning",
+        "type": "gk",
+        "base": 10
+      }
+    ]
+  },
+  {
+    "position": "CDM",
+    "weakFoot": 2,
+    "stats": [
+      {
+        "key": "interceptions",
+        "label": "Interceptions",
+        "type": "core",
+        "base": 73
+      },
+      {
+        "key": "defensiveAware",
+        "label": "Def. Awareness",
+        "type": "core",
+        "base": 73
+      },
+      {
+        "key": "standingTackle",
+        "label": "Standing Tackle",
+        "type": "core",
+        "base": 83
+      },
+      {
+        "key": "slidingTackle",
+        "label": "Sliding Tackle",
+        "type": "core",
+        "base": 73
+      },
+      {
+        "key": "stamina",
+        "label": "Stamina",
+        "type": "core",
+        "base": 73
+      },
+      {
+        "key": "strength",
+        "label": "Strength",
+        "type": "core",
+        "base": 83
+      },
+      {
+        "key": "shortPassing",
+        "label": "Short Passing",
+        "type": "core",
+        "base": 83
+      },
+      {
+        "key": "aggression",
+        "label": "Aggression",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "jumping",
+        "label": "Jumping",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "headingAccuracy",
+        "label": "Heading",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "reactions",
+        "label": "Reactions",
+        "type": "secondary",
+        "base": 58
+      },
+      {
+        "key": "longPassing",
+        "label": "Long Passing",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "vision",
+        "label": "Vision",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "ballControl",
+        "label": "Ball Control",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "dribbling",
+        "label": "Dribbling",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "agility",
+        "label": "Agility",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "balance",
+        "label": "Balance",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "acceleration",
+        "label": "Acceleration",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "sprintSpeed",
+        "label": "Sprint Speed",
+        "type": "secondary",
+        "base": 83
+      },
+      {
+        "key": "finishing",
+        "label": "Finishing",
+        "type": "secondary",
+        "base": 63
+      },
+      {
+        "key": "shotPower",
+        "label": "Shot Power",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "longShots",
+        "label": "Long Shots",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "curve",
+        "label": "Curve",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "fkAccuracy",
+        "label": "FK Accuracy",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "crossing",
+        "label": "Crossing",
+        "type": "secondary",
+        "base": 63
+      },
+      {
+        "key": "positioning",
+        "label": "Positioning",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "composure",
+        "label": "Composure",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "volleys",
+        "label": "Volleys",
+        "type": "secondary",
+        "base": 63
+      },
+      {
+        "key": "penalties",
+        "label": "Penalties",
+        "type": "secondary",
+        "base": 73
+      },
+      {
+        "key": "gkDiving",
+        "label": "GK Diving",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkHandling",
+        "label": "GK Handling",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkKicking",
+        "label": "GK Kicking",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkReflexes",
+        "label": "GK Reflexes",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkPositioning",
+        "label": "GK Positioning",
+        "type": "gk",
+        "base": 10
+      }
+    ]
+  },
+  {
+    "position": "LB",
+    "weakFoot": 2,
+    "stats": [
+      {
+        "key": "acceleration",
+        "label": "Acceleration",
+        "type": "core",
+        "base": 69
+      },
+      {
+        "key": "sprintSpeed",
+        "label": "Sprint Speed",
+        "type": "core",
+        "base": 84
+      },
+      {
+        "key": "defensiveAware",
+        "label": "Def. Awareness",
+        "type": "core",
+        "base": 69
+      },
+      {
+        "key": "standingTackle",
+        "label": "Standing Tackle",
+        "type": "core",
+        "base": 79
+      },
+      {
+        "key": "interceptions",
+        "label": "Interceptions",
+        "type": "core",
+        "base": 69
+      },
+      {
+        "key": "crossing",
+        "label": "Crossing",
+        "type": "core",
+        "base": 79
+      },
+      {
+        "key": "stamina",
+        "label": "Stamina",
+        "type": "core",
+        "base": 69
+      },
+      {
+        "key": "slidingTackle",
+        "label": "Sliding Tackle",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "jumping",
+        "label": "Jumping",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "strength",
+        "label": "Strength",
+        "type": "secondary",
+        "base": 79
+      },
+      {
+        "key": "aggression",
+        "label": "Aggression",
+        "type": "secondary",
+        "base": 79
+      },
+      {
+        "key": "reactions",
+        "label": "Reactions",
+        "type": "secondary",
+        "base": 79
+      },
+      {
+        "key": "shortPassing",
+        "label": "Short Passing",
+        "type": "secondary",
+        "base": 79
+      },
+      {
+        "key": "longPassing",
+        "label": "Long Passing",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "vision",
+        "label": "Vision",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "dribbling",
+        "label": "Dribbling",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "ballControl",
+        "label": "Ball Control",
+        "type": "secondary",
+        "base": 79
+      },
+      {
+        "key": "agility",
+        "label": "Agility",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "balance",
+        "label": "Balance",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "finishing",
+        "label": "Finishing",
+        "type": "secondary",
+        "base": 59
+      },
+      {
+        "key": "shotPower",
+        "label": "Shot Power",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "longShots",
+        "label": "Long Shots",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "headingAccuracy",
+        "label": "Heading",
+        "type": "secondary",
+        "base": 79
+      },
+      {
+        "key": "curve",
+        "label": "Curve",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "fkAccuracy",
+        "label": "FK Accuracy",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "positioning",
+        "label": "Positioning",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "composure",
+        "label": "Composure",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "volleys",
+        "label": "Volleys",
+        "type": "secondary",
+        "base": 59
+      },
+      {
+        "key": "penalties",
+        "label": "Penalties",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "gkDiving",
+        "label": "GK Diving",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkHandling",
+        "label": "GK Handling",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkKicking",
+        "label": "GK Kicking",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkReflexes",
+        "label": "GK Reflexes",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkPositioning",
+        "label": "GK Positioning",
+        "type": "gk",
+        "base": 10
+      }
+    ]
+  },
+  {
+    "position": "RB",
+    "weakFoot": 2,
+    "stats": [
+      {
+        "key": "acceleration",
+        "label": "Acceleration",
+        "type": "core",
+        "base": 69
+      },
+      {
+        "key": "sprintSpeed",
+        "label": "Sprint Speed",
+        "type": "core",
+        "base": 84
+      },
+      {
+        "key": "defensiveAware",
+        "label": "Def. Awareness",
+        "type": "core",
+        "base": 69
+      },
+      {
+        "key": "standingTackle",
+        "label": "Standing Tackle",
+        "type": "core",
+        "base": 79
+      },
+      {
+        "key": "interceptions",
+        "label": "Interceptions",
+        "type": "core",
+        "base": 69
+      },
+      {
+        "key": "crossing",
+        "label": "Crossing",
+        "type": "core",
+        "base": 79
+      },
+      {
+        "key": "stamina",
+        "label": "Stamina",
+        "type": "core",
+        "base": 69
+      },
+      {
+        "key": "slidingTackle",
+        "label": "Sliding Tackle",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "jumping",
+        "label": "Jumping",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "strength",
+        "label": "Strength",
+        "type": "secondary",
+        "base": 79
+      },
+      {
+        "key": "aggression",
+        "label": "Aggression",
+        "type": "secondary",
+        "base": 79
+      },
+      {
+        "key": "reactions",
+        "label": "Reactions",
+        "type": "secondary",
+        "base": 79
+      },
+      {
+        "key": "shortPassing",
+        "label": "Short Passing",
+        "type": "secondary",
+        "base": 79
+      },
+      {
+        "key": "longPassing",
+        "label": "Long Passing",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "vision",
+        "label": "Vision",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "dribbling",
+        "label": "Dribbling",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "ballControl",
+        "label": "Ball Control",
+        "type": "secondary",
+        "base": 79
+      },
+      {
+        "key": "agility",
+        "label": "Agility",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "balance",
+        "label": "Balance",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "finishing",
+        "label": "Finishing",
+        "type": "secondary",
+        "base": 59
+      },
+      {
+        "key": "shotPower",
+        "label": "Shot Power",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "longShots",
+        "label": "Long Shots",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "headingAccuracy",
+        "label": "Heading",
+        "type": "secondary",
+        "base": 79
+      },
+      {
+        "key": "curve",
+        "label": "Curve",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "fkAccuracy",
+        "label": "FK Accuracy",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "positioning",
+        "label": "Positioning",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "composure",
+        "label": "Composure",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "volleys",
+        "label": "Volleys",
+        "type": "secondary",
+        "base": 59
+      },
+      {
+        "key": "penalties",
+        "label": "Penalties",
+        "type": "secondary",
+        "base": 69
+      },
+      {
+        "key": "gkDiving",
+        "label": "GK Diving",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkHandling",
+        "label": "GK Handling",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkKicking",
+        "label": "GK Kicking",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkReflexes",
+        "label": "GK Reflexes",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkPositioning",
+        "label": "GK Positioning",
+        "type": "gk",
+        "base": 10
+      }
+    ]
+  },
+  {
+    "position": "CB",
+    "weakFoot": 2,
+    "stats": [
+      {
+        "key": "defensiveAware",
+        "label": "Def. Awareness",
+        "type": "core",
+        "base": 81
+      },
+      {
+        "key": "standingTackle",
+        "label": "Standing Tackle",
+        "type": "core",
+        "base": 81
+      },
+      {
+        "key": "slidingTackle",
+        "label": "Sliding Tackle",
+        "type": "core",
+        "base": 71
+      },
+      {
+        "key": "interceptions",
+        "label": "Interceptions",
+        "type": "core",
+        "base": 71
+      },
+      {
+        "key": "headingAccuracy",
+        "label": "Heading",
+        "type": "core",
+        "base": 81
+      },
+      {
+        "key": "strength",
+        "label": "Strength",
+        "type": "core",
+        "base": 71
+      },
+      {
+        "key": "jumping",
+        "label": "Jumping",
+        "type": "core",
+        "base": 71
+      },
+      {
+        "key": "aggression",
+        "label": "Aggression",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "reactions",
+        "label": "Reactions",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "composure",
+        "label": "Composure",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "shortPassing",
+        "label": "Short Passing",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "longPassing",
+        "label": "Long Passing",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "vision",
+        "label": "Vision",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "ballControl",
+        "label": "Ball Control",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "dribbling",
+        "label": "Dribbling",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "acceleration",
+        "label": "Acceleration",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "sprintSpeed",
+        "label": "Sprint Speed",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "agility",
+        "label": "Agility",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "balance",
+        "label": "Balance",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "stamina",
+        "label": "Stamina",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "finishing",
+        "label": "Finishing",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "shotPower",
+        "label": "Shot Power",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "longShots",
+        "label": "Long Shots",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "curve",
+        "label": "Curve",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "fkAccuracy",
+        "label": "FK Accuracy",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "crossing",
+        "label": "Crossing",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "positioning",
+        "label": "Positioning",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "volleys",
+        "label": "Volleys",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "penalties",
+        "label": "Penalties",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "gkDiving",
+        "label": "GK Diving",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkHandling",
+        "label": "GK Handling",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkKicking",
+        "label": "GK Kicking",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkReflexes",
+        "label": "GK Reflexes",
+        "type": "gk",
+        "base": 10
+      },
+      {
+        "key": "gkPositioning",
+        "label": "GK Positioning",
+        "type": "gk",
+        "base": 10
+      }
+    ]
+  },
+  {
+    "position": "GK",
+    "weakFoot": 2,
+    "stats": [
+      {
+        "key": "gkDiving",
+        "label": "GK Diving",
+        "type": "core",
+        "base": 86
+      },
+      {
+        "key": "gkHandling",
+        "label": "GK Handling",
+        "type": "core",
+        "base": 81
+      },
+      {
+        "key": "gkKicking",
+        "label": "GK Kicking",
+        "type": "core",
+        "base": 86
+      },
+      {
+        "key": "gkReflexes",
+        "label": "GK Reflexes",
+        "type": "core",
+        "base": 81
+      },
+      {
+        "key": "gkPositioning",
+        "label": "GK Positioning",
+        "type": "core",
+        "base": 86
+      },
+      {
+        "key": "reactions",
+        "label": "Reactions",
+        "type": "secondary",
+        "base": 81
+      },
+      {
+        "key": "composure",
+        "label": "Composure",
+        "type": "secondary",
+        "base": 71
+      },
+      {
+        "key": "jumping",
+        "label": "Jumping",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "strength",
+        "label": "Strength",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "aggression",
+        "label": "Aggression",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "shortPassing",
+        "label": "Short Passing",
+        "type": "secondary",
+        "base": 51
+      },
+      {
+        "key": "longPassing",
+        "label": "Long Passing",
+        "type": "secondary",
+        "base": 66
+      },
+      {
+        "key": "acceleration",
+        "label": "Acceleration",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "sprintSpeed",
+        "label": "Sprint Speed",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "vision",
+        "label": "Vision",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "ballControl",
+        "label": "Ball Control",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "dribbling",
+        "label": "Dribbling",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "agility",
+        "label": "Agility",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "balance",
+        "label": "Balance",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "stamina",
+        "label": "Stamina",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "interceptions",
+        "label": "Interceptions",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "defensiveAware",
+        "label": "Def. Awareness",
+        "type": "secondary",
+        "base": 66
+      },
+      {
+        "key": "standingTackle",
+        "label": "Standing Tackle",
+        "type": "secondary",
+        "base": 66
+      },
+      {
+        "key": "slidingTackle",
+        "label": "Sliding Tackle",
+        "type": "secondary",
+        "base": 66
+      },
+      {
+        "key": "headingAccuracy",
+        "label": "Heading",
+        "type": "secondary",
+        "base": 51
+      },
+      {
+        "key": "finishing",
+        "label": "Finishing",
+        "type": "secondary",
+        "base": 51
+      },
+      {
+        "key": "shotPower",
+        "label": "Shot Power",
+        "type": "secondary",
+        "base": 66
+      },
+      {
+        "key": "longShots",
+        "label": "Long Shots",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "positioning",
+        "label": "Positioning",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "crossing",
+        "label": "Crossing",
+        "type": "secondary",
+        "base": 51
+      },
+      {
+        "key": "curve",
+        "label": "Curve",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "fkAccuracy",
+        "label": "FK Accuracy",
+        "type": "secondary",
+        "base": 61
+      },
+      {
+        "key": "volleys",
+        "label": "Volleys",
+        "type": "secondary",
+        "base": 51
+      },
+      {
+        "key": "penalties",
+        "label": "Penalties",
+        "type": "secondary",
+        "base": 61
+      }
+    ]
+  }
+]
